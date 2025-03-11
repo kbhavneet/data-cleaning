@@ -1,0 +1,6 @@
+Name, Age, Salary, Department
+John, 25, 50000, HR
+, 30, 60000, IT
+Anna, , 55000, Finance
+Mark, 40, 80000, HR
+Sarah, 35, NaN, IT
