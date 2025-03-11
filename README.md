@@ -4,11 +4,11 @@ This project automates the cleaning and analysis of messy CSV/Excel data. It ide
 
 ## Features
 
-- Handles missing values (fills with mean/median or "Unknown" for categorical data)
+- **Handles missing values (fills with mean/median or "Unknown" for categorical data)**
 - **Detects outliers using the Interquartile Range (IQR) method**
 - **Normalizes numerical data using Min-Max Scaling**
 - **Generates statistical reports and visualizations (Matplotlib & Seaborn)**
-- Saves the cleaned dataset for further analysis
+- **Saves the cleaned dataset for further analysis**
 
 ## Tech Stack
 
@@ -36,7 +36,7 @@ This project automates the cleaning and analysis of messy CSV/Excel data. It ide
 
 ## Usage
 
-1. **Place Your Dataset** (`.csv` or `.xlsx`) inside the project folder as sample\_data.csv
+1. **Place Your Dataset** (`.csv` or `.xlsx`) inside the project folder as `sample_data.csv`.
 2. **Run the Jupyter Notebook** to clean and process the data.
 3. **View the Insights**:
    - Processed data is saved as `cleaned_data.csv`.
@@ -47,6 +47,10 @@ This project automates the cleaning and analysis of messy CSV/Excel data. It ide
 ### **Raw Data (Before Cleaning)**
 
 ![sample_data.csv](image.png)
+
+### Salary Distribution Visualization
+
+![alt text](image-2.png)
 
 ### **Cleaned Data (After Processing)**
 
