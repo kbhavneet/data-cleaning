@@ -50,7 +50,7 @@ This project automates the cleaning and analysis of messy CSV/Excel data. It ide
 
 ### Salary Distribution Visualization
 
-![alt text](image-2.png)
+![salary-distribution-graph](image-2.png)
 
 ### **Cleaned Data (After Processing)**
 
